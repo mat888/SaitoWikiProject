@@ -5,6 +5,8 @@ There are many talented authors who have written a decent volume of content outl
 
 Consider each header as an article in the wiki, and the points below it sections. The corresponding files are organized into this repository - if you would like to contribute an article please be familiar with Saito Consensus and existing work describing it - use existing work if it fits and you have permission and be sure to cite it, but be sure that each article and section remains within it's topic.
 
+Formatting and other specifics can be done later, but if you have suggestions on the fundamental structure those are most valueble to contribute as early as possible.
+
 The following is the basic structure:
 
 ---
