@@ -46,7 +46,7 @@ The following is the basic structure:
 
 2.32 - Sustainable Orphaning of Competing Work
 
-### 2a   - Problems in PoS / Sharding?
+#### 2a   - Problems in PoS / Sharding?
 
 
 ### 3    - Saito Consensus
